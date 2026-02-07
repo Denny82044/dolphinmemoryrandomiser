@@ -10,7 +10,7 @@ A simple Python script that randomises any memory address in Dolphin between spe
 pip install -r requirements.txt
 ```
 ## Downloading & running the program
-1. Check the releases tab on this repo, and download the latest release. (https://github.com/Denny82044/dominationsorewatch/releases)
+1. Check the releases tab on this repo, and download the latest release. (https://github.com/Denny82044/dolphinmemoryrandomiser/releases)
 2. Extract the .zip when downloaded.
 4. Load Dolphin, then run a game of your choice.
 5. Run main.py
