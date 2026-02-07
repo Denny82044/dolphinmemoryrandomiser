@@ -21,4 +21,4 @@ pip install -r requirements.txt
 2. If there are any bugs, report them on the repo or to me directly on Discord (denny82044).
 
 # Supported Dolphin Versions
-https://github.com/Denny82044/dominationsorewatch/blob/main/supporteddolphinversions.md
+https://github.com/Denny82044/dolphinmemoryrandomiser/blob/main/supporteddolphinversions.md
